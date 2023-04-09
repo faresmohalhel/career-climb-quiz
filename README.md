@@ -4,7 +4,7 @@ Career Climb Quiz a quiz website that will evaluate candidates' knowledge and sk
 
 ## live code via github pages
 
-[livecode](https://faresmohalhel.github.io/career-climb-quiz-project/)
+[live url](https://faresmohalhel.github.io/career-climb-quiz-project/)
 
 ## mockup and wireframe
 
